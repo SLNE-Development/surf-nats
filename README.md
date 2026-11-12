@@ -1,3 +1,5 @@
+Moved to [surf-api](https://github.com/SLNE-Development/surf-api) in v4.
+
 # surf-nats
 
 [![Version](https://img.shields.io/badge/version-1.0.0--SNAPSHOT-informational)](https://github.com/SLNE-Development/surf-nats)
